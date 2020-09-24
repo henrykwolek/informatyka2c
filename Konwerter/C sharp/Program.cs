@@ -64,7 +64,7 @@ namespace C_sharp
             catch (FormatException)
             {
 
-                Console.WriteLine();
+                Console.WriteLine("Wystąpił błąd przy formatowaniu.");
             }
 
             //Linia kodu zapobiegająca zamknięciu się konsoli po wykonanym kodzie.
