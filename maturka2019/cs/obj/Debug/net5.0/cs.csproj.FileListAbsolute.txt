@@ -1,0 +1,16 @@
+C:\Programming\C++\maturka2019\cs\bin\Debug\net5.0\cs.exe
+C:\Programming\C++\maturka2019\cs\bin\Debug\net5.0\cs.deps.json
+C:\Programming\C++\maturka2019\cs\bin\Debug\net5.0\cs.runtimeconfig.json
+C:\Programming\C++\maturka2019\cs\bin\Debug\net5.0\cs.runtimeconfig.dev.json
+C:\Programming\C++\maturka2019\cs\bin\Debug\net5.0\cs.dll
+C:\Programming\C++\maturka2019\cs\bin\Debug\net5.0\ref\cs.dll
+C:\Programming\C++\maturka2019\cs\bin\Debug\net5.0\cs.pdb
+C:\Programming\C++\maturka2019\cs\obj\Debug\net5.0\cs.csprojAssemblyReference.cache
+C:\Programming\C++\maturka2019\cs\obj\Debug\net5.0\cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C++\maturka2019\cs\obj\Debug\net5.0\cs.AssemblyInfoInputs.cache
+C:\Programming\C++\maturka2019\cs\obj\Debug\net5.0\cs.AssemblyInfo.cs
+C:\Programming\C++\maturka2019\cs\obj\Debug\net5.0\cs.csproj.CoreCompileInputs.cache
+C:\Programming\C++\maturka2019\cs\obj\Debug\net5.0\cs.dll
+C:\Programming\C++\maturka2019\cs\obj\Debug\net5.0\ref\cs.dll
+C:\Programming\C++\maturka2019\cs\obj\Debug\net5.0\cs.pdb
+C:\Programming\C++\maturka2019\cs\obj\Debug\net5.0\cs.genruntimeconfig.cache
